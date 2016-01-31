@@ -10,5 +10,3 @@ dirs.other = [dirs.vehicle, 'other/'];
 dirs.feature = [dirs.project, 'feature/'];
 % result location
 dirs.save = [dirs.project, 'result/'];
-% caffe directory
-dirs.caffe = '/home/zhou/Documents/caffe-master-20151112/';

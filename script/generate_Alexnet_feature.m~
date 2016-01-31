@@ -1,6 +1,6 @@
 function [] = generate_Alexnet_feature(dirs, name_layer, dim_layer)
 %% set path for matcaffe
-dir_caffe = dirs.caffe;
+dir_caffe = '/home/zhou/Documents/caffe-master-20151112/';
 addpath([dir_caffe, 'matlab/']);
 addpath('../reference/');
 
